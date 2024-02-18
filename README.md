@@ -1,2 +1,2 @@
 # learnsearch
-let's build a search enging
+let's build a search engine
